@@ -1,0 +1,15 @@
+br\ufc\quixada\npi\service\impl\GenericServiceImpl.class
+br\ufc\quixada\spa\model\Documento.class
+br\ufc\quixada\spa\control\DocumentoController.class
+br\ufc\quixada\npi\util\SimpleMap.class
+br\ufc\quixada\spa\filter\CrossOriginResourceSharingFilter.class
+br\ufc\quixada\spa\service\DocumentoService.class
+br\ufc\quixada\spa\config\AppConfig.class
+br\ufc\quixada\npi\repository\GenericRepository.class
+br\ufc\quixada\npi\service\GenericService.class
+br\ufc\quixada\npi\repository\jpa\JpaGenericRepositoryImpl.class
+br\ufc\quixada\spa\controller\advice\GlobalControllerExceptionHandler.class
+br\ufc\quixada\spa\service\impl\DocumentoServiceImpl.class
+br\ufc\quixada\npi\enumeration\QueryType.class
+br\ufc\quixada\npi\enumeration\ResponseStatus.class
+br\ufc\quixada\npi\model\ResponseStatusMessage.class
